@@ -1,5 +1,3 @@
-package DSA;
-
 public class DigitsInFactorial {
     public static void main(String[] args) {
         int N = 42;

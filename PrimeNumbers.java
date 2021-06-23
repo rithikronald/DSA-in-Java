@@ -1,5 +1,3 @@
-package DSA;
-
 //  Sieve of Eratosthenes Algorithm
 public class PrimeNumbers {
     public static void main(String[] args) {

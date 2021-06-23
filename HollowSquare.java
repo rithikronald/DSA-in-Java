@@ -1,5 +1,3 @@
-package DSA.Pattern;
-
 public class HollowSquare {
     public static void main(String[] args) {
         int n = 8;
